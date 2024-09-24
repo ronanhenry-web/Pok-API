@@ -1,15 +1,15 @@
-# Projet PokeAPI
+# PokeAPI Project
 
-Objectif se familiariser avec les slots, les components, les cards, Pinia, Axios, I18N et les promises
+Aimed at getting familiar with slots, components, cards, Pinia, Axios, I18N, and promises
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created using IntelliJ. To get it running, follow these steps :
 
-- Cloner le projet
-- Version minimum de node.js 16.0.0
+- Clone the project
+- Ensure you have Node.js version 16.0.0 or higher
 
-Dans la racine du projet faire :
+In the project root, run :
 ```bash
 npm i
 ```
@@ -18,6 +18,6 @@ npm i
 npm run serv
 ```
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
