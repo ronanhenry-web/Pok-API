@@ -15,7 +15,7 @@ npm i
 ```
 
 ```bash
-npm run serv
+npm run dev
 ```
 
 ## Sources & Tools
